@@ -1,6 +1,6 @@
 <?php
-$telegramToken = '8429161245:AAFncaI7nZrbyEiAh3ex7rvtFL0jACdzNG4';
-$chatId = '-4917477088';
+$telegramToken = '7041638224:AAGrEHFN91XZo1wN5bfbRgOksmQOntwWfi0';
+$chatId = '-1003165263866';
 
 $messageParts = [];
 $messageParts[] = 'Nuevo ingreso al sitio';
